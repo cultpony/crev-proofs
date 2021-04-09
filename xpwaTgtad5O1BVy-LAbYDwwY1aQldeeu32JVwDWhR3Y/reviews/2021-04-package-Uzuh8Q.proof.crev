@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-04-09T18:55:32.192013037+02:00"
+from:
+  id-type: crev
+  id: xpwaTgtad5O1BVy-LAbYDwwY1aQldeeu32JVwDWhR3Y
+  url: "https://github.com/cultpony/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: better-panic
+  version: 0.2.0
+  revision: 5142eaab8dc867e4ee694bef9ced2bcb0a687dff
+  digest: j8CzSY9LE246chNOIJKP_Z_lLIf5xp4c73141evr9Vw
+review:
+  thoroughness: high
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+NQ8M99LntAvILLF6MT4CnGCbjtvRwSlqX1Pvs-Q-CTRREwDLxzQNnR5uV9oJkfqSgGPWW47XeVAzApLNt22GAw
+----- END CREV PROOF -----
+
