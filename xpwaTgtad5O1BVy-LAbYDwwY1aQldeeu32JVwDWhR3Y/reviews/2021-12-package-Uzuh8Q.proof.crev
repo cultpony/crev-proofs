@@ -20,3 +20,25 @@ review:
 0cncPK1u19DR-zpASiRqC-WCBar_qhEQm4S37-aPYvJKP8FMPyrjdxqBDENynqNFfC0d0SxIg7BKWru5JFgTAA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-30T19:20:11.878058471+01:00"
+from:
+  id-type: crev
+  id: xpwaTgtad5O1BVy-LAbYDwwY1aQldeeu32JVwDWhR3Y
+  url: "https://github.com/cultpony/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: kankyo
+  version: 0.3.0
+  revision: 2da79bdf3cf86745f25e5673c28e405df25189d4
+  digest: "-Hk2jxkeqSkYQaoOjdOE3v5oqmhjEs23r3cM1n3ZDG0"
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+----- SIGN CREV PROOF -----
+I4OpfuAgjMjMv5MgmVdoFFsEULOr_aO0WZSw_sUUQnBSci3HQcmAWW0zq0RbQSWwbXqqu7lHclTBs1NhzWfbCA
+----- END CREV PROOF -----
+
