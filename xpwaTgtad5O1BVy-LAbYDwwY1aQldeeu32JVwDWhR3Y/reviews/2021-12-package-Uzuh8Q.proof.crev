@@ -42,3 +42,25 @@ review:
 I4OpfuAgjMjMv5MgmVdoFFsEULOr_aO0WZSw_sUUQnBSci3HQcmAWW0zq0RbQSWwbXqqu7lHclTBs1NhzWfbCA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-30T19:24:36.412424231+01:00"
+from:
+  id-type: crev
+  id: xpwaTgtad5O1BVy-LAbYDwwY1aQldeeu32JVwDWhR3Y
+  url: "https://github.com/cultpony/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: human_bytes
+  version: 0.3.0
+  revision: dd1c1622cb38337fe4e4da848904d1b09f7083d4
+  digest: yrysdPtJynTwwgCJSBKBDuFOIk1O3uI_bWc5lVEnkFM
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+----- SIGN CREV PROOF -----
+rfrCXAmPonV6U6dUmPY8D5DM5YW-nUYy_FDF_bu_rMYsLFi-EKTjra2g8uain54SVvUTD0cLQorpQckW2pyAAA
+----- END CREV PROOF -----
+
