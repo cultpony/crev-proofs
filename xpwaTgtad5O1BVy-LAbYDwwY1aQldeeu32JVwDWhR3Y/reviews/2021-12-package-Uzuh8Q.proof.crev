@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-12-30T19:17:25.093137806+01:00"
+from:
+  id-type: crev
+  id: xpwaTgtad5O1BVy-LAbYDwwY1aQldeeu32JVwDWhR3Y
+  url: "https://github.com/cultpony/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: csp
+  version: 0.1.0
+  revision: 8011ae4bb442a1af788d42e45828ae8973a8ad6c
+  digest: REK6gErDb8kfitktGaTovBBeV-rarQflsj1Xz1YJhe8
+review:
+  thoroughness: high
+  understanding: high
+  rating: strong
+----- SIGN CREV PROOF -----
+0cncPK1u19DR-zpASiRqC-WCBar_qhEQm4S37-aPYvJKP8FMPyrjdxqBDENynqNFfC0d0SxIg7BKWru5JFgTAA
+----- END CREV PROOF -----
+
